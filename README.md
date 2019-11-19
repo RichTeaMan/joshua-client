@@ -7,6 +7,11 @@ To use:
 python3 joshua_client.py
 ```
 
+The script as it is will only translate the Holy Words but the ```translate``` can be changed to use any string.
+
+*Note that the Apache Joshua endpoint referenced in the script is severely broken and doesn't actually translate
+anything. However, it should still be indicative how how to consume the API.*
+
 ## API
 
 Apache Joshua exposes a [subset of the Google Translate API](https://cwiki.apache.org/confluence/display/JOSHUA/RESTful+API).
