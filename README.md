@@ -48,5 +48,6 @@ Response:
   },
   "metadata": [
     "weights tm_custom_0\u003d0.000 tm_pt_0\u003d0.004 tm_pt_1\u003d0.029 tm_pt_2\u003d0.002 tm_pt_3\u003d0.325 tm_pt_4\u003d0.106 tm_pt_5\u003d0.087 OOVPenalty\u003d0.006 WordPenalty\u003d-0.090 lm_0\u003d0.221 Distortion\u003d0.094 PhrasePenalty\u003d-0.002 lm_1\u003d0.034"
+    ]
 }
 ```
